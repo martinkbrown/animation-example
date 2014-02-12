@@ -3,5 +3,10 @@
 
     <string name="hello">Hello World, AnimationExample!</string>
     <string name="app_name">AnimationExample</string>
+    <string name="move">Move</string>
+    <string name="scale">Scale</string>
+    <string name="fade">Fade</string>
+    <string name="rotate">Rotate</string>
+    <string name="all">All</string>
 
 </resources>
